@@ -1,0 +1,24 @@
+{
+  "features": [
+    "cn",
+    "jc",
+    "aai",
+    "pa",
+    "rai",
+    "ccn",
+    "cra",
+    "wic",
+    "sim_mesh",
+    "sim_chemical"
+  ],
+  "n_estimators": 100,
+  "max_depth": 15,
+  "seed": 42,
+  "test_metrics": {
+    "F1": 78.45,
+    "Precision": 85.67,
+    "Recall": 72.35,
+    "AUPR": 87.68
+  },
+  "sklearn_version": "1.6.1"
+}
